@@ -36,10 +36,23 @@ To get started with any of these projects, follow the installation and usage ins
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10
 - pip (Python package installer)
 
 ### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/test_projects.git
+
+
+### Instructions for Customization:
+
+1. **Repository URL**: Replace `https://github.com/BakhtiyorParpiboev/test_projects` with the actual URL of your GitHub repository.
+2. **Project Descriptions**: Add detailed descriptions for each project under the "Projects" section.
+3. **Dependencies**: If each project has different dependencies, create separate `requirements.txt` files for each project and adjust the instructions accordingly.
+4. **Contact Information**: Update the contact information with your name and GitHub profile URL.
 
 1. Clone the repository:
 
